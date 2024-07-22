@@ -1,0 +1,26 @@
+.container {
+  align-items: center;
+  margin: 0 10px 0 10px;
+  font-size: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 280px;
+  padding: 0.5rem;
+  border-radius: 10px;
+  background: coral;
+  color: brown;
+  box-shadow: 0.5rem 0.3rem 0.5rem;
+}
+
+input {
+  width: 100%;
+  margin: 0 0.5rem 0 0.5rem;
+  background: coral;
+  color: brown;
+  border: none;
+  outline: none;
+}
+
+::placeholder {
+  color: brown;
+}
