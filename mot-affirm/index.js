@@ -1,7 +1,7 @@
 const butnEl = document.getElementById("butn"); //create a variable and add EL for element from the index.html by ID//
 const getjokeEl = document.getElementById("getjoke"); // we targeting the space where quotes go in//
 
-const apiKey = "e89HAXHxui14k1Vj717vOU2OgMAqsr9qugfs0kce";
+const apiKey = "secret keyxxxxxx";
 // you creat a variable to store the api key//
 
 // this method is given in the api app//
