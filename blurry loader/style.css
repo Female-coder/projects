@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+}
+
+.bckgrnd {
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaQa_9kgmUIenpDpso5GoqFq17Ye81XNoPg&s")
+    no-repeat center center/cover;
+
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index: -2;
+  filter: blur(0px);
+}
+
+.loading {
+  font-weight: bolder;
+}
