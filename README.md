@@ -1,3 +1,3 @@
 PROJECTS!!
 
-This is folder for all personal projects I built
+This is folder for all projects I built.
